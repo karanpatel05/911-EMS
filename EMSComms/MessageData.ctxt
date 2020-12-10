@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=MessageData
+comment0.text=\n\ This\ is\ a\ class\ design\ to\ encapsulate\ message\ data\ that\ come\ from\ primary\ console.\n\n\ @author\ (karanKumar\ patel)\n\ @version\ (06-15-2020)\n
+comment1.params=channel_Id\ Message
+comment1.target=MessageData(int,\ java.lang.String)
+comment1.text=\n\ Constructor\n
+comment2.params=
+comment2.target=java.lang.String\ getMessage()
+comment2.text=\n\ This\ is\ a\ method\ to\ get\ a\ message\n\ @param\ This\ method\ \ has\ no\ parameters\n\ @return\ this\ method\ return\ String\ message.\n
+comment3.params=
+comment3.target=int\ getChannel_Id()
+comment3.text=\n\ This\ is\ a\ method\ to\ get\ a\ \ channel_Id\n\ @param\ This\ method\ \ has\ no\ parameters\n\ @return\ this\ method\ return\ int\ Channel_Id\n
+numComments=4

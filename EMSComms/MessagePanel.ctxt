@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=MessagePanel
+comment0.text=\n\ Write\ a\ description\ of\ class\ MessagePanel\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=Msg
+comment1.target=MessagePanel(MessageData)
+comment1.text=\n\ Constructor\n
+comment2.params=
+comment2.target=void\ setMessage()
+comment2.text=\n\ This\ is\ a\ method\ to\ set\ message\ to\ monitors\ with\ refernce\ of\ channelId\n\ @param\ This\ method\ \ has\ no\ parameter\ to\ take\ in.\n\ @return\ this\ method\ does\ not\ return\ anything\n
+comment3.params=i
+comment3.target=void\ updateMonitor(int)
+comment3.text=\n\ This\ is\ a\ method\ to\ update\ a\ monitor\ \n\ @param\ This\ method\ \ takes\ int\ i\ has\ a\ parameter.\n\ @return\ this\ method\ does\ not\ return\ anything.\n
+comment4.params=FileName
+comment4.target=void\ playTone(java.lang.String)
+comment4.text=\n\ This\ is\ a\ method\ to\ play\ a\ tone\ .\n\ @param\ This\ method\ has\ parameter\ String\ filename\n\ @return\ this\ method\ does\ not\ return\ anything.\n
+numComments=5

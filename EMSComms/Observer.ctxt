@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Observer
+comment0.text=\nThis\ is\ Observer\ Interface\ with\ \ a\ Update\ method\n\n\ @author\ (karankumar\ Patel)\n\ @version\ (06-15-2020)\n
+comment1.params=channel_id\ Message
+comment1.target=void\ update(int,\ java.lang.String)
+numComments=2

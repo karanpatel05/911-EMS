@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=EMSCommsViewer
+comment0.text=\n\ This\ is\ a\ class\ from\ where\ program\ starts\ to\ execute\ and\ obviuosly\ has\ \n\ a\ main\ method.\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

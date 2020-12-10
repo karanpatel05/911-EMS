@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=CommsUnit
+comment0.text=\n\ This\ class\ has\ Design\ of\ CommsUnit\ Monitors.\n\n\ @author\ (KaranKumar\ Patel)\n\ @version\ (06-15-2020)\n
+comment1.params=channel_Id\ Title
+comment1.target=CommsUnit(int,\ java.lang.String)
+comment1.text=\n\ Constructor\n
+comment2.params=
+comment2.target=javax.swing.JPanel\ createPanel()
+comment2.text=\n\ This\ is\ a\ method\ to\ create\ apanel\n\ @param\ This\ method\ \ has\ no\ parameter\ to\ take\ in.\n\ @return\ this\ method\ return\ a\ Jpanel.\n
+comment3.params=channel_Id\ Message
+comment3.target=void\ update(int,\ java.lang.String)
+comment3.text=\n\ This\ is\ a\ method\ to\ the\ Display\ area\ of\ Commsunit\ object\n\ @param\ This\ method\ \ has\ int\ channelid\ and\ String\ message\ as\ a\ parameter\n\ @return\ this\ method\ does\ not\ return\ anything.\n
+numComments=4
